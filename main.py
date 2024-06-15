@@ -3,7 +3,7 @@ if __name__ == '__main__':
     import os
     import time
 
-    import aes128
+    import 8700ff
     
     print('Step 1:')
     while True:
